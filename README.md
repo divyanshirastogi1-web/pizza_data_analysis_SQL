@@ -21,16 +21,22 @@ The goal is to convert raw transactional data into meaningful insights that supp
 ✅ Build an interactive dashboard using Excel
 
 # Technology  	          
-🗄 MySQL Workbench  	 
-📊 Microsoft Excel	    
-📄 Microsoft Word	      
+🗄 MySQL Workbench
+
+📊 Microsoft Excel
+
+📄 Microsoft Word	
+
 💻 GitHub             	
 
 # Key Performance Indicators KPI
 
 💰 Total Revenue	
+
 🧾 Total Orders	
+
 🍕 Total Pizzas Sold	
+
 💵 Average Order Value
 
 # SQL Analysis Performed
