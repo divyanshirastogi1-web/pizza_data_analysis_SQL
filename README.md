@@ -51,7 +51,9 @@ The goal is to convert raw transactional data into meaningful insights that supp
 
 ✔ Business Intelligence Reporting
 # Dataset
-pizza_data.csv
+https://github.com/divyanshirastogi1-web/pizza_data_analysis_SQL/blob/main/pizza_data.csv
+
+
  
 
 
