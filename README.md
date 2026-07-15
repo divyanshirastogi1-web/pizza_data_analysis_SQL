@@ -59,6 +59,8 @@ The goal is to convert raw transactional data into meaningful insights that supp
 # Dataset
 https://github.com/divyanshirastogi1-web/pizza_data_analysis_SQL/blob/main/pizza_data.csv
 
+# Future scope
+
 
  
 
